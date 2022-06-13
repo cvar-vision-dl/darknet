@@ -1,0 +1,1 @@
+./darknet detector train ./obj.data yolov4-tiny.cfg yolov4-tiny.conv.29 -map 
